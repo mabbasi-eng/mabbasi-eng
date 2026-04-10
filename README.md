@@ -1,44 +1,37 @@
 # Hey, I'm Maryam 👋
 
-I'm a Computer Engineering student at McMaster University who enjoys building both low-level systems and creative digital projects.
+I'm a Computer Engineering student at McMaster University with a strong interest in embedded systems, low-level programming, and hardware–software integration.
 
-## 💻 What I Do
-- Embedded systems development (ARM Cortex, C, Assembly)
-- C++ software projects with strong data structures focus
-- Hardware + software integration
-- Creative tech (video editing, content creation)
+## 💡 About Me
 
-## 🚀 Projects
-- 🐍 Snake Game Engine (C++)
-  - Object-oriented design
-  - Custom linked list implementation
-  - Memory-safe architecture
+I enjoy building systems that interact directly with hardware — from microcontroller-based designs to efficient C/C++ implementations. My work focuses on real-time control, embedded firmware, and understanding how software interfaces with physical systems.
 
-- 🔧 Microcontroller System (ARM Cortex-M4F)
-  - Interrupt-driven firmware
-  - Sensor integration (I²C Time-of-Flight)
-  - Real-time hardware control
+## 🔧 What I Work With
 
-- 🌍 Spatial Mapping System
-  - 360° environmental scanning
-  - Sensor + hardware integration
-  - Built + tested with real circuits
+* **Languages:** C, C++, Python, Assembly, MATLAB
+* **Embedded Systems:** ARM Cortex-M4F, GPIO, ADC, PWM, I²C, interrupts, polling, finite state machines
+* **Tools:** Keil MDK, VS Code, Git/GitHub, LTSpice, Quartus
+* **Hardware:** Oscilloscopes, function generators, circuit prototyping
 
-## 🛠 Tech Stack
-- Languages: C, C++, Python, Assembly, MATLAB
-- Embedded: ARM Cortex-M4F, GPIO, ADC, PWM, I²C
-- Tools: Git, VS Code, Keil MDK, LTSpice, Quartus
-- Creative: DaVinci Resolve, After Effects, CapCut
+## 🚀 Featured Work
 
-## 🎯 Currently Working On
-- Improving embedded system design
-- Building more real-world hardware projects
-- Growing my GitHub with meaningful repos
+* Designed an embedded spatial mapping system using polling-based control with Time-of-Flight sensing and stepper motor integration (final project)
+* Developed ARM Cortex-M4F microcontroller systems through coursework, implementing both interrupt-driven and polling-based control, peripheral interfacing, and finite state machines
+* Built a C++ Snake game engine using object-oriented design and custom data structures
 
-## 🌱 Goals
-- Become a strong embedded systems engineer
-- Contribute to real-world projects
-- Keep learning and building consistently
+## 🌱 Currently Learning
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/maryam-abbasi-197574269/
+* Advanced embedded system design
+* Real-time programming concepts
+* Hardware-level optimization and debugging
+
+## 🎯 Goals
+
+* Build impactful embedded systems projects
+* Gain industry experience in firmware/embedded engineering
+* Continue developing strong low-level programming skills
+
+## 📫 Connect
+
+* LinkedIn: https://www.linkedin.com/in/maryam-abbasi-197574269/
+
