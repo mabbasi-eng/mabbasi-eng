@@ -1,42 +1,44 @@
-# Hi, I'm Maryam Abbasi 👋
+# Hey, I'm Maryam 👋
 
-🎓 Computer Engineering student at McMaster University
-💻 Interested in embedded systems, hardware-software integration, and low-level programming
+I'm a Computer Engineering student at McMaster University who enjoys building both low-level systems and creative digital projects.
 
-## Featured Projects
+## 💻 What I Do
+- Embedded systems development (ARM Cortex, C, Assembly)
+- C++ software projects with strong data structures focus
+- Hardware + software integration
+- Creative tech (video editing, content creation)
 
-### Embedded Spatial Mapping System
+## 🚀 Projects
+- 🐍 Snake Game Engine (C++)
+  - Object-oriented design
+  - Custom linked list implementation
+  - Memory-safe architecture
 
-Final embedded systems project integrating a Time-of-Flight sensor, stepper motor control, and microcontroller-based data collection for indoor 3D mapping.
+- 🔧 Microcontroller System (ARM Cortex-M4F)
+  - Interrupt-driven firmware
+  - Sensor integration (I²C Time-of-Flight)
+  - Real-time hardware control
 
-### Hapti-Pack
+- 🌍 Spatial Mapping System
+  - 360° environmental scanning
+  - Sensor + hardware integration
+  - Built + tested with real circuits
 
-Assistive wearable navigation device using LiDAR and vibration feedback to support safer mobility.
+## 🛠 Tech Stack
+- Languages: C, C++, Python, Assembly, MATLAB
+- Embedded: ARM Cortex-M4F, GPIO, ADC, PWM, I²C
+- Tools: Git, VS Code, Keil MDK, LTSpice, Quartus
+- Creative: DaVinci Resolve, After Effects, CapCut
 
-### Snake Game Data Structures & Algorithms
+## 🎯 Currently Working On
+- Improving embedded system design
+- Building more real-world hardware projects
+- Growing my GitHub with meaningful repos
 
-C++ project implementing custom data structures and modular game logic to extend gameplay features.
+## 🌱 Goals
+- Become a strong embedded systems engineer
+- Contribute to real-world projects
+- Keep learning and building consistently
 
-## Technical Foundations
-
-Coursework in ARM Cortex-M microcontroller systems, digital logic design, circuit analysis, and analog electronics.
-
-## Tech
-
-C, C++, Python, ARM Cortex-M, UART, I²C, GPIO, ADC, PWM, Verilog, LTSpice
-
-
-<!--
-**mabbasi-eng/mabbasi-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/maryam-abbasi-197574269/
