@@ -31,7 +31,4 @@ I enjoy building systems that interact directly with hardware — from microcont
 * Gain industry experience in firmware/embedded engineering
 * Continue developing strong low-level programming skills
 
-## 📫 Connect
-
-* LinkedIn: https://www.linkedin.com/in/maryam-abbasi-197574269/
 
